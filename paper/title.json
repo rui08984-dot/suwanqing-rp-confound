@@ -1,0 +1,12 @@
+{
+  "title": "你的角色扮演微调究竟教到了什么",
+  "subtitle": "对一个 9B 模型六轮迭代的审计",
+  "title_en": "What Did Your Persona Fine-Tuning Actually Teach? An Audit of Six-Turn Iterations on a 9B Model",
+  "author": "（待填）",
+  "advisor": "",
+  "school": "",
+  "major": "",
+  "date": "2026 年 10 月",
+  "keywords": "角色扮演微调; 评测有效性; 角色卡混淆; 量化; 大语言模型",
+  "abstract": "角色扮演微调是开源社区的常见做法，但其在标准评测协议下报告的人格一致性无法归因于权重更新。本文审计一个 9B 中文模型的六轮微调迭代，指出一个此前未被系统讨论的角色卡混淆问题，提出三轴分解评测协议，并报告量化对 RP 模型的能力分层影响与三个可复现的方法论事故。"
+}

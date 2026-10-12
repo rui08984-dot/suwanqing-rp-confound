@@ -1,0 +1,10 @@
+{
+  "knowledge_ok": 19,
+  "knowledge_tot": 22,
+  "common_ok": 8,
+  "common_tot": 9,
+  "truncated": 1,
+  "prev_bad_test": {
+    "knowledge": "7/20=35%（300token被推理吃光，非模型问题）"
+  }
+}

@@ -1,0 +1,150 @@
+{"id": "ctrl-eval-9", "user": "馒头呢", "answer": null, "type": "control"}
+{"id": "num-eval-122", "user": "今天往后推15天是几号 星期几", "answer": "10月18日 星期日", "type": "gen_date"}
+{"id": "num-eval-114", "user": "我今天加班到6点 加上路上花了55分钟 我到家大概几点", "answer": "7点20分", "type": "gen_clock"}
+{"id": "num-eval-129", "user": "从今天算起第20天是星期几", "answer": "10月21日 星期三", "type": "gen_date"}
+{"id": "num-eval-69", "user": "我有2个馒头和5个小鱼干 一共几个东西", "answer": "7", "type": "gen_add"}
+{"id": "num-eval-133", "user": "今天往后推13天是几号 星期几", "answer": "10月14日 星期三", "type": "gen_date"}
+{"id": "num-eval-19", "user": "帮我算下 14 加 18 等于多少", "answer": "32", "type": "gen_add"}
+{"id": "num-eval-81", "user": "今天往后推17天是几号 星期几", "answer": "10月30日 星期五", "type": "gen_date"}
+{"id": "ctrl-eval-0", "user": "你是谁", "answer": null, "type": "control"}
+{"id": "num-eval-54", "user": "今天往后推15天是几号 星期几", "answer": "10月19日 星期一", "type": "gen_date"}
+{"id": "num-eval-92", "user": "看电影看了7小时46分钟 总共多长", "answer": "7小时46分", "type": "gen_duration"}
+{"id": "num-eval-37", "user": "我今天加班到11点 加上路上花了55分钟 我到家大概几点", "answer": "12点30分", "type": "gen_clock"}
+{"id": "num-eval-67", "user": "帮我算下 18 加 5 等于多少", "answer": "23", "type": "gen_add"}
+{"id": "num-eval-56", "user": "今天往后推5天是几号 星期几", "answer": "10月18日 星期日", "type": "gen_date"}
+{"id": "num-eval-40", "user": "我今天加班到19点 加上路上花了25分钟 我到家大概几点", "answer": "19点40分", "type": "gen_clock"}
+{"id": "num-eval-96", "user": "我今天加班到12点 加上路上花了20分钟 我到家大概几点", "answer": "13点5分", "type": "gen_clock"}
+{"id": "num-eval-125", "user": "我上午睡了6小时 下午又睡了42分钟 一共睡多久", "answer": "6小时42分", "type": "gen_duration"}
+{"id": "num-eval-74", "user": "我今天走路花了44分钟 加上等车6分钟 一共多久", "answer": "6小时44分", "type": "gen_duration"}
+{"id": "ctrl-eval-4", "user": "我先睡了", "answer": null, "type": "control"}
+{"id": "num-eval-104", "user": "看电影看了9小时54分钟 总共多长", "answer": "9小时54分", "type": "gen_duration"}
+{"id": "num-eval-88", "user": "我今天加班到22点 加上路上花了55分钟 我到家大概几点", "answer": "23点40分", "type": "gen_clock"}
+{"id": "num-eval-101", "user": "我今天走路花了54分钟 加上等车4分钟 一共多久", "answer": "4小时54分", "type": "gen_duration"}
+{"id": "num-eval-93", "user": "看电影看了5小时43分钟 总共多长", "answer": "5小时43分", "type": "gen_duration"}
+{"id": "num-eval-84", "user": "我上午睡了2小时 下午又睡了49分钟 一共睡多久", "answer": "2小时49分", "type": "gen_duration"}
+{"id": "num-eval-36", "user": "我今天走路花了52分钟 加上等车4分钟 一共多久", "answer": "4小时52分", "type": "gen_duration"}
+{"id": "num-eval-80", "user": "我今天加班到7点 加上路上花了30分钟 我到家大概几点", "answer": "7点50分", "type": "gen_clock"}
+{"id": "num-eval-25", "user": "我有18个苹果和15个橘子 一共几个东西", "answer": "33", "type": "gen_add"}
+{"id": "num-eval-120", "user": "从今天算起第3天是星期几", "answer": "10月16日 星期五", "type": "gen_date"}
+{"id": "num-eval-86", "user": "我今天走路花了40分钟 加上等车4分钟 一共多久", "answer": "4小时40分", "type": "gen_duration"}
+{"id": "num-eval-102", "user": "帮我算下 16 加 2 等于多少", "answer": "18", "type": "gen_add"}
+{"id": "num-eval-29", "user": "从今天算起第1天是星期几", "answer": "10月15日 星期四", "type": "gen_date"}
+{"id": "num-eval-106", "user": "我今天走路花了34分钟 加上等车5分钟 一共多久", "answer": "5小时34分", "type": "gen_duration"}
+{"id": "ctrl-eval-6", "user": "你叫什么", "answer": null, "type": "control"}
+{"id": "num-eval-33", "user": "我今天加班到17点 加上路上花了30分钟 我到家大概几点", "answer": "18点20分", "type": "gen_clock"}
+{"id": "num-eval-91", "user": "帮我算下 7 加 6 等于多少", "answer": "13", "type": "gen_add"}
+{"id": "num-eval-85", "user": "我今天加班到19点 加上路上花了50分钟 我到家大概几点", "answer": "20点15分", "type": "gen_clock"}
+{"id": "num-eval-110", "user": "我今天加班到21点 加上路上花了50分钟 我到家大概几点", "answer": "22点10分", "type": "gen_clock"}
+{"id": "num-eval-97", "user": "帮我算下 12 加 2 等于多少", "answer": "14", "type": "gen_add"}
+{"id": "num-eval-135", "user": "看电影看了7小时46分钟 总共多长", "answer": "7小时46分", "type": "gen_duration"}
+{"id": "num-eval-121", "user": "今天往后推7天是几号 星期几", "answer": "10月18日 星期日", "type": "gen_date"}
+{"id": "num-eval-15", "user": "我今天走路花了21分钟 加上等车8分钟 一共多久", "answer": "8小时21分", "type": "gen_duration"}
+{"id": "num-eval-130", "user": "看电影看了4小时49分钟 总共多长", "answer": "4小时49分", "type": "gen_duration"}
+{"id": "ctrl-eval-1", "user": "陪我聊会儿", "answer": null, "type": "control"}
+{"id": "num-eval-39", "user": "从今天算起第19天是星期几", "answer": "10月25日 星期日", "type": "gen_date"}
+{"id": "num-eval-126", "user": "我今天加班到8点 加上路上花了40分钟 我到家大概几点", "answer": "9点25分", "type": "gen_clock"}
+{"id": "num-eval-83", "user": "我今天加班到8点 加上路上花了35分钟 我到家大概几点", "answer": "9点25分", "type": "gen_clock"}
+{"id": "num-eval-103", "user": "从今天算起第14天是星期几", "answer": "10月29日 星期四", "type": "gen_date"}
+{"id": "num-eval-17", "user": "我今天加班到13点 加上路上花了45分钟 我到家大概几点", "answer": "14点35分", "type": "gen_clock"}
+{"id": "num-eval-9", "user": "我今天加班到22点 加上路上花了45分钟 我到家大概几点", "answer": "23点5分", "type": "gen_clock"}
+{"id": "num-eval-46", "user": "帮我算下 7 加 17 等于多少", "answer": "24", "type": "gen_add"}
+{"id": "num-eval-119", "user": "我今天加班到15点 加上路上花了40分钟 我到家大概几点", "answer": "16点5分", "type": "gen_clock"}
+{"id": "num-eval-62", "user": "我有4个馒头和7个小鱼干 一共几个东西", "answer": "11", "type": "gen_add"}
+{"id": "num-eval-105", "user": "我有14个奶茶和15个蛋糕 一共几个东西", "answer": "29", "type": "gen_add"}
+{"id": "num-eval-32", "user": "我有2个奶茶和13个蛋糕 一共几个东西", "answer": "15", "type": "gen_add"}
+{"id": "num-eval-11", "user": "从今天算起第20天是星期几", "answer": "10月13日 星期二", "type": "gen_date"}
+{"id": "num-eval-109", "user": "帮我算下 3 加 17 等于多少", "answer": "20", "type": "gen_add"}
+{"id": "num-eval-87", "user": "我今天走路花了37分钟 加上等车9分钟 一共多久", "answer": "9小时37分", "type": "gen_duration"}
+{"id": "num-eval-55", "user": "今天往后推19天是几号 星期几", "answer": "10月28日 星期三", "type": "gen_date"}
+{"id": "num-eval-50", "user": "今天往后推10天是几号 星期几", "answer": "10月24日 星期六", "type": "gen_date"}
+{"id": "num-eval-111", "user": "帮我算下 18 加 7 等于多少", "answer": "25", "type": "gen_add"}
+{"id": "num-eval-22", "user": "我今天走路花了40分钟 加上等车5分钟 一共多久", "answer": "5小时40分", "type": "gen_duration"}
+{"id": "num-eval-0", "user": "从今天算起第13天是星期几", "answer": "10月30日 星期五", "type": "gen_date"}
+{"id": "num-eval-139", "user": "我今天走路花了38分钟 加上等车9分钟 一共多久", "answer": "9小时38分", "type": "gen_duration"}
+{"id": "num-eval-95", "user": "看电影看了8小时33分钟 总共多长", "answer": "8小时33分", "type": "gen_duration"}
+{"id": "num-eval-20", "user": "从今天算起第20天是星期几", "answer": "10月15日 星期四", "type": "gen_date"}
+{"id": "num-eval-49", "user": "我上午睡了8小时 下午又睡了44分钟 一共睡多久", "answer": "8小时44分", "type": "gen_duration"}
+{"id": "num-eval-35", "user": "从今天算起第17天是星期几", "answer": "10月30日 星期五", "type": "gen_date"}
+{"id": "num-eval-44", "user": "我今天加班到21点 加上路上花了35分钟 我到家大概几点", "answer": "22点5分", "type": "gen_clock"}
+{"id": "num-eval-1", "user": "我有10个显卡和11个硬盘 一共几个东西", "answer": "21", "type": "gen_add"}
+{"id": "num-eval-30", "user": "我今天加班到19点 加上路上花了30分钟 我到家大概几点", "answer": "20点15分", "type": "gen_clock"}
+{"id": "num-eval-115", "user": "从今天算起第18天是星期几", "answer": "10月13日 星期二", "type": "gen_date"}
+{"id": "num-eval-7", "user": "我今天走路花了31分钟 加上等车4分钟 一共多久", "answer": "4小时31分", "type": "gen_duration"}
+{"id": "num-eval-16", "user": "帮我算下 13 加 5 等于多少", "answer": "18", "type": "gen_add"}
+{"id": "num-eval-70", "user": "今天往后推14天是几号 星期几", "answer": "10月27日 星期二", "type": "gen_date"}
+{"id": "ctrl-eval-2", "user": "今天好累", "answer": null, "type": "control"}
+{"id": "num-eval-58", "user": "我今天走路花了34分钟 加上等车6分钟 一共多久", "answer": "6小时34分", "type": "gen_duration"}
+{"id": "ctrl-eval-3", "user": "我吃完了", "answer": null, "type": "control"}
+{"id": "num-eval-118", "user": "我买了12张显卡和15个硬盘 一共花多少件", "answer": "27", "type": "gen_add"}
+{"id": "num-eval-66", "user": "我买了9张显卡和3个硬盘 一共花多少件", "answer": "12", "type": "gen_add"}
+{"id": "num-eval-28", "user": "我有5个馒头和16个小鱼干 一共几个东西", "answer": "21", "type": "gen_add"}
+{"id": "num-eval-112", "user": "我有8个苹果和2个橘子 一共几个东西", "answer": "10", "type": "gen_add"}
+{"id": "num-eval-63", "user": "今天往后推10天是几号 星期几", "answer": "10月23日 星期五", "type": "gen_date"}
+{"id": "num-eval-42", "user": "我今天加班到19点 加上路上花了50分钟 我到家大概几点", "answer": "20点15分", "type": "gen_clock"}
+{"id": "num-eval-132", "user": "我今天走路花了44分钟 加上等车5分钟 一共多久", "answer": "5小时44分", "type": "gen_duration"}
+{"id": "num-eval-82", "user": "看电影看了2小时24分钟 总共多长", "answer": "2小时24分", "type": "gen_duration"}
+{"id": "num-eval-31", "user": "我上午睡了3小时 下午又睡了47分钟 一共睡多久", "answer": "3小时47分", "type": "gen_duration"}
+{"id": "ctrl-eval-5", "user": "你是真人吗", "answer": null, "type": "control"}
+{"id": "num-eval-131", "user": "我有10个奶茶和19个蛋糕 一共几个东西", "answer": "29", "type": "gen_add"}
+{"id": "num-eval-51", "user": "我今天加班到8点 加上路上花了40分钟 我到家大概几点", "answer": "9点", "type": "gen_clock"}
+{"id": "num-eval-64", "user": "帮我算下 11 加 10 等于多少", "answer": "21", "type": "gen_add"}
+{"id": "num-eval-123", "user": "我今天加班到20点 加上路上花了25分钟 我到家大概几点", "answer": "21点15分", "type": "gen_clock"}
+{"id": "num-eval-128", "user": "我今天走路花了21分钟 加上等车9分钟 一共多久", "answer": "9小时21分", "type": "gen_duration"}
+{"id": "num-eval-65", "user": "我买了11张显卡和8个硬盘 一共花多少件", "answer": "19", "type": "gen_add"}
+{"id": "num-eval-18", "user": "我今天加班到22点 加上路上花了25分钟 我到家大概几点", "answer": "23点5分", "type": "gen_clock"}
+{"id": "num-eval-47", "user": "我上午睡了8小时 下午又睡了48分钟 一共睡多久", "answer": "8小时48分", "type": "gen_duration"}
+{"id": "num-eval-3", "user": "我有2个苹果和4个橘子 一共几个东西", "answer": "6", "type": "gen_add"}
+{"id": "num-eval-89", "user": "看电影看了7小时50分钟 总共多长", "answer": "7小时50分", "type": "gen_duration"}
+{"id": "num-eval-99", "user": "我买了2张显卡和17个硬盘 一共花多少件", "answer": "19", "type": "gen_add"}
+{"id": "num-eval-68", "user": "我今天加班到18点 加上路上花了50分钟 我到家大概几点", "answer": "19点5分", "type": "gen_clock"}
+{"id": "num-eval-48", "user": "我今天加班到10点 加上路上花了50分钟 我到家大概几点", "answer": "11点20分", "type": "gen_clock"}
+{"id": "num-eval-52", "user": "我买了14张显卡和10个硬盘 一共花多少件", "answer": "24", "type": "gen_add"}
+{"id": "num-eval-127", "user": "我今天加班到22点 加上路上花了20分钟 我到家大概几点", "answer": "23点10分", "type": "gen_clock"}
+{"id": "num-eval-61", "user": "我有12个显卡和10个硬盘 一共几个东西", "answer": "22", "type": "gen_add"}
+{"id": "num-eval-12", "user": "我今天走路花了21分钟 加上等车9分钟 一共多久", "answer": "9小时21分", "type": "gen_duration"}
+{"id": "num-eval-100", "user": "我今天加班到9点 加上路上花了40分钟 我到家大概几点", "answer": "10点15分", "type": "gen_clock"}
+{"id": "num-eval-116", "user": "帮我算下 17 加 2 等于多少", "answer": "19", "type": "gen_add"}
+{"id": "num-eval-108", "user": "我今天加班到10点 加上路上花了20分钟 我到家大概几点", "answer": "11点", "type": "gen_clock"}
+{"id": "num-eval-137", "user": "我今天加班到19点 加上路上花了30分钟 我到家大概几点", "answer": "19点55分", "type": "gen_clock"}
+{"id": "num-eval-43", "user": "我买了13张显卡和5个硬盘 一共花多少件", "answer": "18", "type": "gen_add"}
+{"id": "num-eval-117", "user": "帮我算下 8 加 15 等于多少", "answer": "23", "type": "gen_add"}
+{"id": "num-eval-90", "user": "我今天走路花了39分钟 加上等车2分钟 一共多久", "answer": "2小时39分", "type": "gen_duration"}
+{"id": "num-eval-98", "user": "我今天加班到9点 加上路上花了40分钟 我到家大概几点", "answer": "10点5分", "type": "gen_clock"}
+{"id": "num-eval-4", "user": "帮我算下 10 加 12 等于多少", "answer": "22", "type": "gen_add"}
+{"id": "num-eval-113", "user": "我今天加班到22点 加上路上花了55分钟 我到家大概几点", "answer": "23点10分", "type": "gen_clock"}
+{"id": "num-eval-5", "user": "我今天加班到7点 加上路上花了35分钟 我到家大概几点", "answer": "7点50分", "type": "gen_clock"}
+{"id": "num-eval-79", "user": "我今天加班到14点 加上路上花了40分钟 我到家大概几点", "answer": "15点30分", "type": "gen_clock"}
+{"id": "num-eval-2", "user": "我有12个馒头和10个小鱼干 一共几个东西", "answer": "22", "type": "gen_add"}
+{"id": "num-eval-124", "user": "看电影看了8小时53分钟 总共多长", "answer": "8小时53分", "type": "gen_duration"}
+{"id": "num-eval-6", "user": "我今天加班到21点 加上路上花了35分钟 我到家大概几点", "answer": "22点", "type": "gen_clock"}
+{"id": "num-eval-78", "user": "今天往后推19天是几号 星期几", "answer": "10月21日 星期三", "type": "gen_date"}
+{"id": "num-eval-27", "user": "我今天加班到11点 加上路上花了40分钟 我到家大概几点", "answer": "12点5分", "type": "gen_clock"}
+{"id": "num-eval-34", "user": "我买了5张显卡和15个硬盘 一共花多少件", "answer": "20", "type": "gen_add"}
+{"id": "num-eval-134", "user": "我今天走路花了28分钟 加上等车7分钟 一共多久", "answer": "7小时28分", "type": "gen_duration"}
+{"id": "num-eval-94", "user": "今天往后推5天是几号 星期几", "answer": "10月30日 星期五", "type": "gen_date"}
+{"id": "num-eval-77", "user": "我今天加班到11点 加上路上花了40分钟 我到家大概几点", "answer": "12点5分", "type": "gen_clock"}
+{"id": "num-eval-24", "user": "今天往后推6天是几号 星期几", "answer": "10月12日 星期一", "type": "gen_date"}
+{"id": "num-eval-13", "user": "我有17个苹果和13个橘子 一共几个东西", "answer": "30", "type": "gen_add"}
+{"id": "num-eval-38", "user": "我今天加班到8点 加上路上花了30分钟 我到家大概几点", "answer": "9点10分", "type": "gen_clock"}
+{"id": "num-eval-45", "user": "从今天算起第2天是星期几", "answer": "10月17日 星期六", "type": "gen_date"}
+{"id": "num-eval-59", "user": "看电影看了3小时55分钟 总共多长", "answer": "3小时55分", "type": "gen_duration"}
+{"id": "num-eval-41", "user": "我今天走路花了31分钟 加上等车8分钟 一共多久", "answer": "8小时31分", "type": "gen_duration"}
+{"id": "ctrl-eval-8", "user": "外面下雨了", "answer": null, "type": "control"}
+{"id": "num-eval-72", "user": "我买了17张显卡和7个硬盘 一共花多少件", "answer": "24", "type": "gen_add"}
+{"id": "num-eval-14", "user": "我今天加班到11点 加上路上花了55分钟 我到家大概几点", "answer": "12点45分", "type": "gen_clock"}
+{"id": "num-eval-73", "user": "我今天加班到12点 加上路上花了45分钟 我到家大概几点", "answer": "13点10分", "type": "gen_clock"}
+{"id": "num-eval-76", "user": "我今天加班到10点 加上路上花了50分钟 我到家大概几点", "answer": "11点5分", "type": "gen_clock"}
+{"id": "num-eval-10", "user": "我今天加班到11点 加上路上花了55分钟 我到家大概几点", "answer": "12点35分", "type": "gen_clock"}
+{"id": "num-eval-71", "user": "我今天加班到10点 加上路上花了30分钟 我到家大概几点", "answer": "10点45分", "type": "gen_clock"}
+{"id": "num-eval-8", "user": "我今天加班到21点 加上路上花了45分钟 我到家大概几点", "answer": "22点5分", "type": "gen_clock"}
+{"id": "num-eval-26", "user": "今天往后推20天是几号 星期几", "answer": "10月21日 星期三", "type": "gen_date"}
+{"id": "num-eval-60", "user": "我今天加班到7点 加上路上花了40分钟 我到家大概几点", "answer": "8点10分", "type": "gen_clock"}
+{"id": "ctrl-eval-7", "user": "我心情不好", "answer": null, "type": "control"}
+{"id": "num-eval-107", "user": "我今天加班到12点 加上路上花了25分钟 我到家大概几点", "answer": "13点5分", "type": "gen_clock"}
+{"id": "num-eval-136", "user": "我买了18张显卡和4个硬盘 一共花多少件", "answer": "22", "type": "gen_add"}
+{"id": "num-eval-75", "user": "我今天走路花了36分钟 加上等车2分钟 一共多久", "answer": "2小时36分", "type": "gen_duration"}
+{"id": "num-eval-57", "user": "我有3个奶茶和10个蛋糕 一共几个东西", "answer": "13", "type": "gen_add"}
+{"id": "num-eval-53", "user": "我今天走路花了38分钟 加上等车8分钟 一共多久", "answer": "8小时38分", "type": "gen_duration"}
+{"id": "num-eval-138", "user": "帮我算下 10 加 19 等于多少", "answer": "29", "type": "gen_add"}
+{"id": "num-eval-21", "user": "从今天算起第1天是星期几", "answer": "10月12日 星期一", "type": "gen_date"}
+{"id": "num-eval-23", "user": "我上午睡了6小时 下午又睡了51分钟 一共睡多久", "answer": "6小时51分", "type": "gen_duration"}

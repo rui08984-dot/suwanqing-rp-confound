@@ -1,0 +1,115 @@
+{
+  "model": "/mnt/workspace/llm/p9-v51-out/final",
+  "cells": [
+    {
+      "cell": "有卡+开思考",
+      "ident": {
+        "hit": 7,
+        "tot": 8,
+        "rate": 87.5
+      },
+      "daily": {
+        "alive": 10,
+        "n": 10,
+        "persona_word": 8,
+        "life_detail": 8,
+        "any_mark": 10,
+        "generic": 0,
+        "counsel": 0,
+        "persona_any_pct": 80.0
+      },
+      "numeric": {
+        "ok": 12,
+        "tot": 20,
+        "rate": 60.0
+      }
+    },
+    {
+      "cell": "有卡+关思考",
+      "ident": {
+        "hit": 8,
+        "tot": 8,
+        "rate": 100.0
+      },
+      "daily": {
+        "alive": 10,
+        "n": 10,
+        "persona_word": 10,
+        "life_detail": 9,
+        "any_mark": 10,
+        "generic": 0,
+        "counsel": 0,
+        "persona_any_pct": 100.0
+      },
+      "numeric": {
+        "ok": 10,
+        "tot": 20,
+        "rate": 50.0
+      }
+    },
+    {
+      "cell": "无卡+开思考",
+      "ident": {
+        "hit": 8,
+        "tot": 8,
+        "rate": 100.0
+      },
+      "daily": {
+        "alive": 10,
+        "n": 10,
+        "persona_word": 8,
+        "life_detail": 10,
+        "any_mark": 10,
+        "generic": 1,
+        "counsel": 0,
+        "persona_any_pct": 100.0
+      },
+      "numeric": {
+        "ok": 10,
+        "tot": 20,
+        "rate": 50.0
+      }
+    },
+    {
+      "cell": "无卡+关思考",
+      "ident": {
+        "hit": 7,
+        "tot": 8,
+        "rate": 87.5
+      },
+      "daily": {
+        "alive": 10,
+        "n": 10,
+        "persona_word": 9,
+        "life_detail": 10,
+        "any_mark": 10,
+        "generic": 0,
+        "counsel": 0,
+        "persona_any_pct": 100.0
+      },
+      "numeric": {
+        "ok": 9,
+        "tot": 20,
+        "rate": 45.0
+      }
+    }
+  ],
+  "ranking": [
+    {
+      "cell": "有卡+关思考",
+      "score": 82.5
+    },
+    {
+      "cell": "无卡+开思考",
+      "score": 82.5
+    },
+    {
+      "cell": "有卡+开思考",
+      "score": 76.0
+    },
+    {
+      "cell": "无卡+关思考",
+      "score": 75.8
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "total_records": 2973,
+  "total_turns": 3557,
+  "holdout": 60,
+  "bucket_turn_pct": {
+    "CoT重写": 6.3,
+    "v4保留": 14.4,
+    "场合感": 10.0,
+    "A51对抗": 28.7,
+    "A旧回放": 9.0,
+    "旧语料回放": 10.2,
+    "数字": 6.3,
+    "推理": 2.5,
+    "通用": 12.7
+  },
+  "fix_turn_pct": 38.6,
+  "v5_buckets": {
+    "a51_adversary.jsonl": {
+      "recs": 2454,
+      "turns": 2454,
+      "taken_recs": 1152,
+      "taken_turns": 1152,
+      "desc": "A51合法长相+品牌注入（主攻）"
+    },
+    "a_adversary_cot_merged.jsonl": {
+      "recs": 1224,
+      "turns": 1224,
+      "taken_recs": 320,
+      "taken_turns": 320,
+      "desc": "A旧回放（明显敌意）"
+    },
+    "b_minimal_pair.jsonl": {
+      "recs": 2092,
+      "turns": 2092,
+      "taken_recs": 384,
+      "taken_turns": 384,
+      "desc": "场合感回放"
+    },
+    "c_cot_rewrite.jsonl": {
+      "recs": 711,
+      "turns": 711,
+      "taken_recs": 224,
+      "taken_turns": 224,
+      "desc": "CoT重写回放"
+    },
+    "d_numeric.jsonl": {
+      "recs": 624,
+      "turns": 624,
+      "taken_recs": 224,
+      "taken_turns": 224,
+      "desc": "数字回放（48%已到手，防丢）"
+    }
+  },
+  "note": "v5.1 定向补丁：从 p8-v5-out/final 继训；a51 主攻合法长相变体"
+}

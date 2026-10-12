@@ -1,0 +1,256 @@
+[
+  {
+    "id": "roleLLM",
+    "doi": "10.48550/arXiv.2310.00746",
+    "title": "RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models",
+    "year": 2024,
+    "authors": [
+      "Zekun Moore Wang",
+      "Zhongyuan Peng",
+      "Haoran Que",
+      "Jiaheng Liu",
+      "Man Zhang"
+    ],
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2310.00746",
+    "note": "RoleBench 168,093 samples; RoCIT 微调路线。我们的主要对照工作。⚠️ 年份已由 2023 改为 2024（ref_verify 报年份不符，arXiv v3 为 2024 正式版；首版 2023-10）。",
+    "relevance": "C1 诊断",
+    "verified": "2026-10-12 search_papers 确认（v3，2023-10-01 首发/2024 正式）"
+  },
+  {
+    "id": "characterEval",
+    "doi": "10.48550/arXiv.2401.01275",
+    "title": "CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation",
+    "year": 2024,
+    "authors": [
+      "Quan Tu",
+      "Shilong Fan",
+      "Zihang Tian",
+      "Rui Yan"
+    ],
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2401.01275",
+    "note": "中文 RP 评测，23,020 examples / 77 characters / 13 指标 4 维度。角色卡来自百度百科。",
+    "relevance": "C1 诊断 + 相关工作",
+    "verified": "2026-10-12 search_papers 返回完整题录（Quan Tu 等，2024-01-02）"
+  },
+  {
+    "id": "memoryDrivenRP",
+    "doi": "10.48550/arXiv.2603.19313",
+    "title": "Memory-Driven Role-Playing: Evaluation and Enhancement of Persona Knowledge Utilization in LLMs",
+    "year": 2026,
+    "authors": [
+      "Kai Wang",
+      "Haoyang You",
+      "Yang Zhang",
+      "Zhongjie Wang"
+    ],
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2603.19313",
+    "note": "★ 最贴近本文：明确要求 persona 知识仅凭对话上下文检索，'without explicit cues'。MREval 四能力。",
+    "relevance": "C2 协议的核心依据",
+    "verified": "2026-10-12 search_papers 返回完整题录（Kai Wang 等，2026-03-14）"
+  },
+  {
+    "id": "atomicOOC",
+    "doi": "10.48550/arXiv.2506.19352",
+    "title": "Spotting Out-of-Character Behavior: Atomic-Level Evaluation of Persona Fidelity in Open-Ended Generation",
+    "year": 2025,
+    "authors": [
+      "Jisu Shin",
+      "Juhyun Oh",
+      "Eunsu Kim",
+      "Hoyun Song",
+      "Alice Oh"
+    ],
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2506.19352",
+    "note": "指出整段打分漏检细微 OOC。我们的指标分层（人设腔/生活细节）与之呼应。",
+    "relevance": "C2 协议 + 指标设计",
+    "verified": "2026-10-12 search_papers 返回完整题录（Jisu Shin 等，2025-06-24）"
+  },
+  {
+    "id": "onePromptNotEnough",
+    "doi": "10.48550/arXiv.2605.22544",
+    "title": "One prompt is not enough: Instruction Sensitivity Undermines Embedding Model Evaluation",
+    "year": 2026,
+    "authors": [
+      "Yevhen Kostiuk",
+      "Kenneth Enevoldsen"
+    ],
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2605.22544",
+    "note": "★ 单 prompt 评测不可靠、排名对 prompt 选择不鲁棒。与本文'变体级留出'论点同构。",
+    "relevance": "C2 协议的理论支撑",
+    "verified": "2026-10-12 search_papers 返回完整题录（Kostiuk & Enevoldsen，2026-05-21）"
+  },
+  {
+    "id": "promptSensitivityAgents",
+    "doi": "10.48550/arXiv.2608.26221",
+    "title": "Prompt Sensitivity of Generative Agents: Evidence from an Epidemic Model",
+    "year": 2026,
+    "authors": [
+      "Ross Williams",
+      "Niyousha Hosseinichimeh"
+    ],
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.26221",
+    "note": "同义改写影响可忽略，但细微变体与上下文变化会影响结果。解释为何变体级留出必要。",
+    "relevance": "C2 协议",
+    "verified": "2026-10-12 search_papers 返回完整题录（Williams & Hosseinichimeh，2026-08-26）"
+  },
+  {
+    "id": "characterLLM",
+    "doi": "10.48550/arXiv.2310.10158",
+    "title": "Character-LLM: A Trainable Agent for Role-Playing",
+    "year": 2023,
+    "authors": [
+      "Yunfan Shao",
+      "Linyang Li",
+      "Junqi Dai",
+      "Xipeng Qiu"
+    ],
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2310.10158",
+    "note": "把 profile 当 experience 编辑后微调。⚠️ 作者我最初凭记忆写成 Jiaxian Guo 等，ref_verify 报首作者不符，fetch_paper 核实实为 Yunfan Shao 等 4 人，已更正。",
+    "relevance": "相关工作",
+    "verified": "2026-10-12 fetch_paper 确认（Shao et al.）"
+  },
+  {
+    "id": "personaDrift",
+    "doi": null,
+    "title": "(身份漂移相关文献待补)",
+    "year": null,
+    "authors": [],
+    "source": "pending",
+    "url": null,
+    "note": "项目旧文档引用了 'Examining Identity Drift in Conversations of LLM Agents' arXiv:2412.00804，但我在 arXiv 上未检索到该 ID 对应此标题（ref_verify 与 Crossref 均无法解析）。按铁律「绝不编造」，此处留空占位，正文写作时若需引用必须先核实真实 ID，或改用已核实的 identityDrift 相关文献。",
+    "relevance": "待定",
+    "verified": "❌ 未通过核实，正文暂不得引用"
+  },
+  {
+    "id": "loraLearnsLess",
+    "doi": "10.48550/arXiv.2405.09673",
+    "title": "LoRA Learns Less and Forgets Less",
+    "year": 2024,
+    "authors": [
+      "Dan Biderman",
+      "Jacob Portes",
+      "Jose Javier Gonzalez Ortiz",
+      "Mansheej Paul",
+      "Philip Greengard",
+      "John P. Cunningham"
+    ],
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2405.09673",
+    "note": "标准低秩设置下 LoRA 显著弱于全参；但保基座能力更好；全参学到的扰动秩高 10-100 倍。⚠️ 作者我最初凭记忆写错（写成 Damian Lozan 等），已按 search_papers 核实更正为 Biderman 等。",
+    "relevance": "方法选择依据（我们用全参）",
+    "verified": "2026-10-12 search_papers 确认（Biderman et al.）"
+  },
+  {
+    "id": "abliterationNotScalpel",
+    "doi": "10.48550/arXiv.2607.17427",
+    "title": "Abliteration Is Not a Scalpel: Off-Target Effects of Refusal Removal on Decision Disposition Across Model Families",
+    "year": 2026,
+    "authors": [
+      "Aleksander Fafuła"
+    ],
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.17427",
+    "note": "★ 检索中发现的高价值相关工作：对 abliterated 模型做 21,600 次决策探针，发现三项跨族复现的副作用（+12.2pp/+7.4pp 过度乐观等），并明言'研究社区改造过的 checkpoint 时，工具链产物是常态'。我们的基座正是 abliterated 版，且我们同样踩了工具链坑（--no-nextn、伪标签）。",
+    "relevance": "基座副作用 + 工具链污染的外部佐证",
+    "verified": "2026-10-12 search_papers 确认"
+  },
+  {
+    "id": "moreThanRefusal",
+    "doi": "10.48550/arXiv.2602.02132",
+    "title": "There Is More to Refusal in Large Language Models than a Single Direction",
+    "year": 2026,
+    "authors": [
+      "Faaiz Joad",
+      "Majd Hawasly",
+      "Sabri Boughorbel",
+      "Nadir Durrani",
+      "Husrev Taha Sencar"
+    ],
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2602.02132",
+    "note": "反驳单一拒绝方向假说。用于说明'abliterated 基座的行为不等于基座减拒绝'。",
+    "relevance": "相关工作 + 基座说明",
+    "verified": "2026-10-12 search_papers 确认"
+  },
+  {
+    "id": "abliteratedWillingUnable",
+    "doi": "10.48550/arXiv.2606.05396",
+    "title": "Willing but Unable: Separating Refusal from Capability in Code LLMs via Abliteration",
+    "year": 2026,
+    "authors": [
+      "Cristina Carleo",
+      "Pietro Liguori",
+      "Naghmeh Ivaki",
+      "Domenico Cotroneo"
+    ],
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.05396",
+    "note": "把 refusal（意愿）与 capability（能力）分离。与本文'混淆'主题同构：都在拆解两个常被混为一谈的量。",
+    "relevance": "相关工作（方法论类比）",
+    "verified": "2026-10-12 search_papers 确认"
+  },
+  {
+    "id": "quantLowEntropy",
+    "doi": "10.48550/arXiv.2606.15682",
+    "title": "ReQAT: Achieving Full-Precision Reasoning Accuracy with 4-bit Floating-Point Quantization-Aware Training",
+    "year": 2026,
+    "authors": [
+      "Janghwan Lee",
+      "Sihwa Lee",
+      "Jinseok Kim",
+      "Yongjik Kim",
+      "Jieun Lim",
+      "Jinwook Oh",
+      "Jungwook Choi"
+    ],
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.15682",
+    "note": "★ C3 核心依据（已 fetch_paper 核验）：原文称 FP4 failures concentrate on low-entropy tokens — precise symbolic commitments such as digits and operators。我们的实测（人格无损/算术掉）与之一致。注意其场景是 FP4 W4A4KV4，我们用 GGUF Q4_K_M（权重量化），条件不同，需在正文说明差异。",
+    "relevance": "C3 量化分层",
+    "verified": "2026-10-12 fetch_paper 确认标题与作者"
+  },
+  {
+    "id": "personaBias",
+    "doi": "10.48550/arXiv.2311.04892",
+    "title": "Bias Runs Deep: Implicit Reasoning Biases in Persona-Assigned LLMs",
+    "year": 2023,
+    "authors": [
+      "Shashank Gupta",
+      "Vaishnavi Shrivastava",
+      "Ameet Deshpande",
+      "Ashwin Kalyan",
+      "Peter Clark",
+      "Ashish Sabharwal",
+      "Tushar Khot"
+    ],
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2311.04892",
+    "note": "★ 已核验（此前项目文档只写 arXiv ID 无标题）。24 reasoning datasets / 4 LLMs / 19 personas；GPT-3.5 上 80% persona 有偏，部分数据集掉 70%+。正文用于毒舌边界与伦理讨论。注意其 persona 是人口统计身份 ours 是虚构角色，外推需谨慎。",
+    "relevance": "伦理讨论 + C1 佐证（persona 本身就带副作用）",
+    "verified": "2026-10-12 fetch_paper 确认"
+  },
+  {
+    "id": "llamaCpp",
+    "doi": null,
+    "title": "llama.cpp: Efficient Inference of Large Language Models on CPUs and GPUs",
+    "year": 2023,
+    "authors": [
+      "Georgi Gerganov",
+      "Theo Rong",
+      "Younes Belkada",
+      "Lianmin Zheng"
+    ],
+    "source": "misc",
+    "url": "https://github.com/ggml-org/llama.cpp",
+    "note": "量化部署工具链。--no-nextn 属 convert_hf_to_gguf.py。",
+    "relevance": "C3 可复现性",
+    "verified": "工具链项目，非学术论文，无需 DOI；URL 有效"
+  }
+]
